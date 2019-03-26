@@ -1,0 +1,4 @@
+*** Google Ads for WooCommerce Changelog ***
+
+2019-02-20 - version 1.0.0
+* First release.
